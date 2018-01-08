@@ -1,20 +1,18 @@
-/* DO NOT CHANGE THE GLOBAL VARIABLE NAME */
+/ DO NOT CHANGE THE GLOBAL VARIABLE NAME */
 
 window.VUELOG_DATABASE = {
   config: {
     // The name of your site, will be displayed in browser tab and site header.
     brand: {
-      'en-US': 'Vuelog',
-      'zh-CN': 'Vuelog',
-      'de-DE': 'Vuelog',
-      'pt-BR': 'Vuelog'
+      'en-US': "Whale's",
+      'zh-CN': "Whale's"
     },
 
     // Put the site brand behind current page in `document.title`.
     brandTrailing: false,
 
     // The image displayed in site header right beside the brand.
-    logo: './static/vuelog.svg',
+    logo: './static/whale_logo.png',
 
     // Path to the domain root that serves your site, starts and ends with slash (`/`).
     // Set to `'/'` if your site is under domain root.
