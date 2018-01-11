@@ -173,6 +173,16 @@ window.VUELOG_DATABASE = {
   ],
 
   posts: [
+    /* 2018 */
+    {
+      title: {
+        'en-US': 'Graphql'
+      },
+      slug: 'graphql',
+      category: 'docs',
+      date: '2018-01-11'
+    },
+
     /* 2017 */
     {
       title: {
