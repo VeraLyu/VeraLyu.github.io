@@ -8,3 +8,9 @@ ref: https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-
 引入graphql的目的是让客户端得到的响应更加灵活,客户端可以改变响应格式，而后端不会产生任何改变
 ## rest与graphql
 rest路径明确可缓存，但是无法只取出若干域,无法灵活组织后面的查询
+graphql可以做到一次实现，多次复用
+## 种类
+query:取得数据
+mutation:修改数据
+## 如何写一个nodejs+graphql-server
+
